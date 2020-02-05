@@ -1,4 +1,6 @@
 # SAAIO
+
+———————————————————————
 Hanbot 2 Detailed tutorial：
 
 1.Download sa.obj and place hanbot / lol-nd / shards
@@ -7,6 +9,7 @@ Hanbot 2 Detailed tutorial：
 
 3.Enter the password in SA.ini
 
+———————————————————————
 Hanbot 3 Detailed tutorial：
 
 1.Download sa.shars and place hanbot3\league of legends\shards

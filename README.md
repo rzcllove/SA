@@ -14,7 +14,7 @@ Hanbot 2 Detailed tutorial：
 
 Hanbot 3 Detailed tutorial：
 
-1.Download sa.shars and place hanbot3\league of legends\shards
+1.Download sa.shard and place hanbot3\league of legends\shards
 
 2.Download SA.ini place hanbot3\league of legends
 

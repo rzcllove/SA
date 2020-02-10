@@ -104,6 +104,8 @@ Olaf
 
 Orianna
 
+Ornn
+
 Pantheon
 
 Pyke

@@ -86,6 +86,8 @@ Kennen
 
 KogMaw
 
+Kindred
+
 Leblanc
 
 Lux

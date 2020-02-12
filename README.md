@@ -64,6 +64,8 @@ Ezreal
 
 Gangplank
 
+Graves
+
 Illaoi
 
 Jax

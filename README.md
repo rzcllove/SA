@@ -128,6 +128,8 @@ Shyvana
 
 Sivir
 
+Sion
+
 Sona
 
 Soraka

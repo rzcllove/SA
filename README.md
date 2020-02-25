@@ -2,15 +2,6 @@
 
 ———————————————————————
 
-Hanbot 2 Detailed tutorial：
-
-1.Download sa.obj and place hanbot / lol-nd / shards
-
-2.Download SA.ini place hanbot/
-
-3.Enter the password in SA.ini
-
-———————————————————————
 
 Hanbot 3 Detailed tutorial：
 

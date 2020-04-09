@@ -111,6 +111,8 @@ Renekton
 
 Ryze
 
+Rumble
+
 Senna
 
 Sett

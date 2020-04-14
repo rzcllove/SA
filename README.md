@@ -91,6 +91,8 @@ MissFortune
 
 Mordekaiser
 
+MonkeyKing
+
 Nautilus
 
 Neeko

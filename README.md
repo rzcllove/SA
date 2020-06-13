@@ -1,4 +1,4 @@
-# SAAIO
+# SAAIO2
 
 ———————————————————————
 
@@ -10,6 +10,8 @@ Hanbot 3 Detailed tutorial：
 2.Download SA.ini place hanbot3\league of legends
 
 3.Enter the password in SA.ini
+
+CN server is not supported
 
 ———————————————————————
 

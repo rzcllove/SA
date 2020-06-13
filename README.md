@@ -1,5 +1,7 @@
 # SAAIO2
 
+CN server is not supported
+
 ———————————————————————
 
 
@@ -11,7 +13,6 @@ Hanbot 3 Detailed tutorial：
 
 3.Enter the password in SA.ini
 
-CN server is not supported
 
 ———————————————————————
 

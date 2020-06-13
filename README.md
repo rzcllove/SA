@@ -17,15 +17,17 @@ Support list :
 
 Ashe
 
-Lucian 
+Lucian
 
-Irelia 
+Irelia
 
-Aatrox 
+Aatrox
 
-Akali 
+Akali
 
-Annie 
+Annie
+
+Anivia [Test]
 
 Aphelios
 
@@ -133,17 +135,25 @@ Swain
 
 Sylas
 
+Syndra
+
 Tristana
 
 Twitch
 
 Talon
 
+Taric
+
 Vayne
 
 Viktor
 
 Vladimir
+
+Varus
+
+Volibear
 
 Xayah
 
@@ -155,5 +165,6 @@ Yorick
 
 Yuumi
 
-Zoe
+Zilean
 
+Zoe

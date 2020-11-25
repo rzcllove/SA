@@ -18,156 +18,97 @@ Hanbot 3 Detailed tutorial：
 
 Support list :
 
-Ashe
-
-Lucian
-
-Irelia
-
-Aatrox
-
-Akali
-
-Annie
-
-Anivia [Test]
-
-Aphelios
-
-Blitzcrank
-
-Brand
-
-Caitlyn
-
-Cassiopeia
-
-Chogath
-
-Corki
-
-Diana
-
-Draven
-
-DrMundo
-
-Ekko
-
-Elise
-
-Ezreal
-
-Gangplank
-
-Graves
-
-Illaoi
-
-Jax
-
-Jinx
-
-Kaisa
-
-Kalista
-
-Karthus
-
-Kassadin
-
-Kayle
-
-Kennen
-
-KogMaw
-
-Kindred
-
-Leblanc
-
-Lux
-
-Malphite
-
-Malzahar
-
-MissFortune
-
-Mordekaiser
-
-MonkeyKing
-
-Nautilus
-
-Neeko
-
-Olaf
-
-Orianna
-
-Ornn
-
-Pantheon
-
-Pyke
-
-Qiyana
-
-Renekton
-
-Ryze
-
-Rumble
-
-Senna
-
-Sett
-
-Shyvana
-
-Sivir
-
-Sion
-
-Sona
-
-Soraka
-
-Swain
-
-Sylas
-
-Syndra
-
-Tristana
-
-Twitch
-
-Talon
-
-Taric
-
-Vayne
-
-Viktor
-
-Vladimir
-
-Varus
-
-Volibear
-
-Xayah
-
-Xerath
-
-Yasuo
-
-Yorick
-
-Yuumi
-
-Zilean
-
-Zoe
+Additional > :
+> Orbwalking
+> Tracker
+> TargetSelector
+
+Champions > :
+> Ashe 
+> Lucian
+> Irelia
+> Aatrox
+> Akali
+> Annie
+> Ahri
+> Anivia
+> Aphelios
+> Azir
+> Blitzcrank
+> Brand
+> Caitlyn
+> Cassiopeia
+> Chogath
+> Corki
+> Diana
+> Draven
+> DrMundo
+> Ekko
+> Elise
+> Ezreal
+> Fiora
+> Gangplank
+> Graves
+> Illaoi
+> Jax
+> Jinx
+> Jhin
+> Kaisa
+> Kalista
+> Karthus
+> Kassadin
+> Kayle
+> Kennen
+> KogMaw
+> Kindred
+> Khazix
+> Leblanc
+> Lux
+> Lillia
+> Malphite
+> Malzahar
+> MissFortune
+> Mordekaiser
+> Nautilus
+> Neeko
+> Nasus
+> Nunu
+> Nidalee
+> Olaf
+> Orianna
+> Ornn
+> Pantheon
+> Pyke
+> Qiyana
+> RekSai
+> Renekton
+> Ryze
+> Senna
+> Sett
+> Shyvana
+> Sivir
+> Sona
+> Soraka
+> Swain
+> Sylas 
+> Syndra 
+> Singed
+> Samira
+> Seraphine
+> Tristana
+> Twitch
+> Talon
+> Thresh
+> TwistedFate
+> Vayne
+> Viktor
+> Vladimir
+> Xayah
+> Xerath
+> Yasuo
+> Yone
+> Yorick
+> Yuumi
+> Zilean
+> Zoe
+> Ziggs

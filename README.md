@@ -18,10 +18,14 @@ Hanbot 3 Detailed tutorial：
 
 Support list :
 
+2021-01-22
+
 Additional > :
 > Orbwalking
 > Tracker
 > TargetSelector
+> Predction 1 
+> Predction 2(recommend Zoe Use predction1)
 
 Champions > :
 > Ashe 
@@ -34,6 +38,7 @@ Champions > :
 > Anivia
 > Aphelios
 > Azir
+> Amumu
 > Blitzcrank
 > Brand
 > Caitlyn
@@ -83,6 +88,8 @@ Champions > :
 > RekSai
 > Renekton
 > Ryze
+> Rell
+> Riven
 > Senna
 > Sett
 > Shyvana
@@ -103,6 +110,7 @@ Champions > :
 > Vayne
 > Viktor
 > Vladimir
+> Viego
 > Xayah
 > Xerath
 > Yasuo

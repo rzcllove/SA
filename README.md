@@ -1,4 +1,4 @@
-# SAAIO2
+# SAAIO3
 
 CN server is not supported
 
@@ -18,20 +18,18 @@ Hanbot 3 Detailed tutorial：
 
 Support list :
 
-2021-01-22
+2021-06-04
 
 Additional > :
 > Orbwalking
 > Tracker
 > TargetSelector
-> Predction 1 
-> Predction 2(recommend Zoe Use predction1)
+> Predction 1 | Predction 2 
 
 Champions > :
+> 95 champion
 > Ashe 
-> Lucian
-> Irelia
-> Aatrox
+> Aatrox(A Version And B Version)
 > Akali
 > Annie
 > Ahri
@@ -50,11 +48,13 @@ Champions > :
 > DrMundo
 > Ekko
 > Elise
-> Ezreal
+> Ezreal(A Version And B Version)
 > Fiora
-> Gangplank
-> Graves
+> Gnar
+> Graves (The script has a VIP version)
+> Gwen
 > Illaoi
+> Irelia(A Version And B Version)
 > Jax
 > Jinx
 > Jhin
@@ -69,11 +69,16 @@ Champions > :
 > Khazix
 > Leblanc
 > Lux
+> Lulu
+> LeeSin (The script has a VIP version)
 > Lillia
+> Lissandra
+> Lucian
 > Malphite
 > Malzahar
 > MissFortune
 > Mordekaiser
+> Morgana
 > Nautilus
 > Neeko
 > Nasus
@@ -84,12 +89,12 @@ Champions > :
 > Ornn
 > Pantheon
 > Pyke
-> Qiyana
 > RekSai
 > Renekton
 > Ryze
 > Rell
-> Riven
+> Riven (Gagong_Riven Only with SA Orbwallker callback)
+> Qiyana
 > Senna
 > Sett
 > Shyvana
@@ -107,13 +112,13 @@ Champions > :
 > Talon
 > Thresh
 > TwistedFate
-> Vayne
+> Vayne(A Version And B Version)
 > Viktor
 > Vladimir
-> Viego
+> Viego(Support all SanAndreas champion skills)
 > Xayah
 > Xerath
-> Yasuo
+> Yasuo(A Version And B Version)
 > Yone
 > Yorick
 > Yuumi

@@ -18,7 +18,7 @@ Hanbot 3 Detailed tutorial：
 
 Support list :
 
-2021-06-04
+2022-01-04
 
 Additional > :
 > Orbwalking

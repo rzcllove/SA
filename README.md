@@ -27,7 +27,7 @@ Additional > :
 > Predction 1 | Predction 2 
 
 Champions > :
-> 95 champion
+> 99 champion
 > Ashe 
 > Aatrox(A Version And B Version)
 > Akali
@@ -35,6 +35,7 @@ Champions > :
 > Ahri
 > Anivia
 > Aphelios
+> Akshan
 > Azir
 > Amumu
 > Blitzcrank
@@ -74,6 +75,7 @@ Champions > :
 > Lillia
 > Lissandra
 > Lucian
+> Leona
 > Malphite
 > Malzahar
 > MissFortune
@@ -83,6 +85,7 @@ Champions > :
 > Neeko
 > Nasus
 > Nunu
+> Nami
 > Nidalee
 > Olaf
 > Orianna
@@ -112,10 +115,12 @@ Champions > :
 > Talon
 > Thresh
 > TwistedFate
+> Teemo
 > Vayne(A Version And B Version)
 > Viktor
 > Vladimir
 > Viego(Support all SanAndreas champion skills)
+> Vex
 > Xayah
 > Xerath
 > Yasuo(A Version And B Version)
